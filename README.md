@@ -52,3 +52,13 @@ This analysis could be extended by:
 ## Repository Contents
 
 - `Telco_Customer_Churn_Analysis.ipynb`: Complete Jupyter Notebook with data cleaning, exploratory analysis, visualizations, and insights.
+
+## How to Open the Notebook
+
+The analysis is provided in a Jupyter Notebook file (`.ipynb` format). To open it:
+
+1. Clone or download this repository.
+2. Open the file using [Jupyter Notebook](https://jupyter.org/install) or [JupyterLab](https://jupyterlab.readthedocs.io/), available through Anaconda or pip installation.
+3. Alternatively, you can view the notebook directly on GitHub without downloading.
+
+For best results, open the notebook in Jupyter to run the code interactively and explore the visualizations.
